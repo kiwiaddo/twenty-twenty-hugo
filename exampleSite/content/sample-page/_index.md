@@ -3,4 +3,13 @@ title: Sample Page
 description: This is meta description
 
 ---
-    {{< youtube w7Ft2ymGmfc >}}
+
+### Table title
+
+| Header | Header | Header |
+| --- | --- | --- |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+
+{{< youtube w7Ft2ymGmfc >}}
