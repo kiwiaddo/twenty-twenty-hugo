@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "Twenty Twenty Hugo"
+baseURL = "https://hihi-media.netlify.app/"
+title = "Hihi Media"
 theme = "twentytwenty"
 languageName = "En"
 languageCode = "en-us"
