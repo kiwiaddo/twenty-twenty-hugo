@@ -15,7 +15,7 @@ description: This is meta description
 
 {{< youtube w7Ft2ymGmfc >}}
 
-<style>
+<style type="text/css">
 
   .ex8 .parent {
     height: auto;
